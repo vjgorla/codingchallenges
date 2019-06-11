@@ -1,6 +1,12 @@
 import java.util.Arrays;
 
 /**
+ * The snake cube is a mechanical puzzle, a chain of 27 cubelets, connected by an elastic band running 
+ * through them. The cubelets can rotate freely. The aim of the puzzle is to arrange the chain in such a 
+ * way that they will form 3 x 3 x 3 cube.
+ *
+ * http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Snakecube_1.jpg/220px-Snakecube_1.jpg
+ *
  * Solves any cube puzzle given their rotating node indexes.
  *
  * Answer:

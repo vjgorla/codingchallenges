@@ -86,5 +86,6 @@ There are also links to the source below.
 
 ## Tent Puzzle
 [Tent Puzzle PDF](http://qtechsolutions.com.au/vijaygorla/codingchallenges/tentpuzzle/TentPuzzle.pdf)
+
 See [TentPuzzle.java](java/TentPuzzle.java)
 

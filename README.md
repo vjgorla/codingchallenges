@@ -57,3 +57,9 @@ all of the digits from 1 to 9. The puzzle setter provides a partially completed 
 typically has a unique solution.
 
 See [Sudoku.java](java/Sudoku.java)
+
+## Eight queens puzzle
+The eight queens puzzle is the problem of placing eight chess queens on an 8x8 chessboard so that no two 
+queens attack each other. Thus, a solution requires that no two queens share the same row, column, or diagonal.
+
+See [EightQueensPuzzle.java](java/EightQueensPuzzle.java)

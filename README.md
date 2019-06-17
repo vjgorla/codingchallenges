@@ -8,4 +8,4 @@ way that they will form 3 x 3 x 3 cube.
 ![Snake Cube](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Snakecube_1.jpg/220px-Snakecube_1.jpg)
 ![Snake Cube](http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Snakecube_2.jpg/220px-Snakecube_2.jpg)
 
-See [SnakeCube.java](java/SnakeCube.java)
+See [CubePuzzle.java](java/CubePuzzle.java)

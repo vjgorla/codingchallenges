@@ -83,3 +83,8 @@ There are also links to the source below.
 * [AStarDemo.java](java/astar/AStarDemo.java)
 * [AStarMain.java](java/astar/AStarMain.java)
 * [AStarTest.java](java/astar/AStarTest.java)
+
+## Tent Puzzle
+[Tent Puzzle PDF](http://qtechsolutions.com.au/vijaygorla/codingchallenges/tentpuzzle/TentPuzzle.pdf)
+See [TentPuzzle.java](java/TentPuzzle.java)
+

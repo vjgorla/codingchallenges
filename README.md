@@ -32,3 +32,20 @@ each from a different country, and with a favorite drink, cigarette, and pet. He
 The question is: Who owns the fish?
 
 See [EinsteinPuzzle.java](java/EinsteinPuzzle.java)
+
+## Farmer puzzle
+A farmer has a forty kilogramme stone that he uses to weigh food for his animals on a scale. One day, 
+he loans the stone to his neighbour. A few days later, the neighbour returns the stone and apologises 
+to the farmer because his stone is now broken in four pieces. The farmer responds "Please don't apologise, 
+you have actually made my life easier because with these four pieces, I can now measure any weight 
+between one and forty kilos".
+
+Some clarifications:
+The four weights are integers (whole numbers, without fractional digits).
+The weights we can measure between one and forty kilos are in one kilo increment.
+They are measured in one session (otherwise, you could measure forty kilos with a one kilo stone 
+by performing forty measurements).
+
+The question is: how much do these four individual pieces weigh?
+
+See [FarmerPuzzle.java](java/FarmerPuzzle.java)

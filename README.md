@@ -49,3 +49,11 @@ by performing forty measurements).
 The question is: how much do these four individual pieces weigh?
 
 See [FarmerPuzzle.java](java/FarmerPuzzle.java)
+
+## Sudoku
+Sudoku is a logic-based, combinatorial number-placement puzzle. The objective is to fill a 9x9 grid 
+with digits so that each column, each row, and each of the nine 3x3 sub-grids that compose the grid contains 
+all of the digits from 1 to 9. The puzzle setter provides a partially completed grid, which 
+typically has a unique solution.
+
+See [Sudoku.java](java/Sudoku.java)

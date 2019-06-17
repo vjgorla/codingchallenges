@@ -63,3 +63,23 @@ The eight queens puzzle is the problem of placing eight chess queens on an 8x8 c
 queens attack each other. Thus, a solution requires that no two queens share the same row, column, or diagonal.
 
 See [EightQueensPuzzle.java](java/EightQueensPuzzle.java)
+
+## A* algorithm
+A* (pronounced A Star) algorithm is a technique for finding the best path through a maze given an origin and a known destination.
+I have implemented it in java and created an applet to demonstrate how it works. Have a play with it.
+This implementation is based on the article [A* Pathfinding for Beginners](http://www.policyalmanac.org/games/aStarTutorial.htm)
+There are also links to the source below.
+ 
+* Double click in a box to make it the origin (green)
+* CTRL + Double click makes a box as destination (red)
+* Single clicking on a box, or dragging over a series of boxes creates walls
+* Click the Find Path button to find the nearest path between origin and destination
+
+![A*](http://qtechsolutions.com.au/vijaygorla/codingchallenges/astar/astar1.png)
+![A*](http://qtechsolutions.com.au/vijaygorla/codingchallenges/astar/astar2.png)
+
+* [AStar.java](java/astar/AStar.java)
+* [Node.java](java/astar/Node.java)
+* [AStarDemo.java](java/astar/AStarDemo.java)
+* [AStarMain.java](java/astar/AStarMain.java)
+* [AStarTest.java](java/astar/AStarTest.java)
